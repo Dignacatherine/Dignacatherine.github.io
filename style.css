@@ -1,4 +1,7 @@
-body:
- #grad {
-    background: linear-gradient(maroon, gold;)
+headr{
+  background:
+       linear-gradient(marron,gold);
+     padding:15px;
+     margin: 10px;
+     border: 10px solid black;
 }

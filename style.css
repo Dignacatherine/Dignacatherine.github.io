@@ -1,5 +1,5 @@
 body{
-  background:linear-gradient(maroon, gold);
+  background:linear-gradient(babyblue, purple);
     text-align:center;
 }
 
@@ -8,9 +8,4 @@ h1{
 }
 
   div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-}
-
+ 
